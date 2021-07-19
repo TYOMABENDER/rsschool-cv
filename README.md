@@ -1,2 +1,2 @@
 # rsschool-cv
-https://Artem.github.io/rsschool-cv/cv
+https://TYOMABENDER.github.io/rsschool-cv/cv
